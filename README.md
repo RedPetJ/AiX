@@ -33,7 +33,7 @@ III. Methodology
 
 IV. Evaluation & Analysis
 - https://kosis.kr/covid/covid_index.do
-https://www.kiri.or.kr/report/downloadFile.do?docId=81889
+- https://www.kiri.or.kr/report/downloadFile.do?docId=81889
 
 V. Related Work
 - Tools, libraries, blogs, or any documentation that you have used to do this project.
