@@ -39,7 +39,8 @@ III. Methodology
 
 IV. Evaluation & Analysis
 
-
+![image](https://user-images.githubusercontent.com/95401684/146540867-6886c6a6-5415-4e68-bb97-3a9588cf1018.png)
+월별 확진자 
 V. Related Work
 
 
