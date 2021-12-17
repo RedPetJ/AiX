@@ -23,7 +23,8 @@ II. Datasets
 - 월별 확진자 수
 - 물가 동향
 - 가계 지출 및 소비 동향
-
+- https://kosis.kr/covid/covid_index.do
+- https://www.kiri.or.kr/report/downloadFile.do?docId=81889
 
 III. Methodology
 - 한 달 중에서 최대 일일 확진자 수를 통해 월별 확진자 수를 예측한다
@@ -32,11 +33,10 @@ III. Methodology
 
 
 IV. Evaluation & Analysis
-- https://kosis.kr/covid/covid_index.do
-- https://www.kiri.or.kr/report/downloadFile.do?docId=81889
+
 
 V. Related Work
-- Tools, libraries, blogs, or any documentation that you have used to do this project.
+
 
 
 VI. Conclusion: Discussion
