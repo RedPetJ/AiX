@@ -25,6 +25,12 @@ II. Datasets
 - 가계 지출 및 소비 동향
 - https://kosis.kr/covid/covid_index.do
 - https://www.kiri.or.kr/report/downloadFile.do?docId=81889
+월	Apr-20	May-20	Jun-20	Jul-20	Aug-20	Sep-20	Oct-20	Nov-20	Dec-20	Jan-21	Feb-21	Mar-21	Apr-21	May-21	Jun-21	Jul-21	Aug-21	Sep-21	Oct-21	Nov-21
+확진자수	979	703	1334	1506	5642	3865	2714	7768	26564	17494	11495	13430	18938	17902	16109	41401	53121	59899	53450	82565
+소비자 물가 지수	0.1	-0.3	0	0.3	0.7	1	0.1	0.6	0.5	0.6	1.1	1.5	2.3	2.6	2.4	2.6	2.6	2.5	3.2	3.7
+가구 실질 소득 증감률	3.6	3.6	3.6	1.1	1.1	1.1	1.4	1.4	1.4	-0.7	-0.7	-0.7	-3	-3	-3					
+가구 명목 소득 증감률	3.5	3.5	3.5	1.8	1.8	1.8	1.8	1.8	1.8	0.4	0.4	0.4	-0.7	-0.7	-0.7					
+![image](https://user-images.githubusercontent.com/95401684/146540408-2f43fa05-13da-4f9e-b006-952f703a4f4c.png)
 
 III. Methodology
 - 한 달 중에서 최대 일일 확진자 수를 통해 월별 확진자 수를 예측한다
