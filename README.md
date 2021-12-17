@@ -33,6 +33,13 @@ III. Methodology
 일별 확진자 수가 갱신될 때 그 달의 물가 동향을 바로 예측하는 방식
 
 
+일일 확진자 수 데이터를 이용하여 그 달의 평균, 최대값을 구한 뒤에 그 달의 총 확진자 수와 함께 데이터 프레임을 만든다.
+![스크린샷(67)](https://user-images.githubusercontent.com/95401684/146572962-95e7b53e-a4cd-4267-9531-47ddcd6ec17b.png)
+
+
+
+월별 확진자 데이터로는 물가의 동향을 알 수 있는 데이터들과 묶어 데이터 프레임을 만든다.
+![스크린샷(68)](https://user-images.githubusercontent.com/95401684/146573202-02e1a4ec-badd-45a4-b4e2-31e7c2923c7a.png)
 
 
 IV. Evaluation & Analysis
@@ -41,7 +48,8 @@ IV. Evaluation & Analysis
 월별 확진자 
 
 
-
+![스크린샷(69)](https://user-images.githubusercontent.com/95401684/146573575-5c8111c3-09c3-4925-98fa-6bac55c5ecca.png)
+월별 물가 동향
 
 
 V. Related Work
