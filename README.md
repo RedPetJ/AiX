@@ -25,11 +25,11 @@ II. Datasets
 - 가계 지출 및 소비 동향
 - https://kosis.kr/covid/covid_index.do
 - https://www.kiri.or.kr/report/downloadFile.do?docId=81889				
-![image](https://user-images.githubusercontent.com/95401684/146540408-2f43fa05-13da-4f9e-b006-952f703a4f4c.png)
-월별 확진자 및 물가 지수
 
-![image](https://user-images.githubusercontent.com/95401684/146540508-de6fb559-a75b-46ff-b40b-05defe377cec.png)
-일별 
+monthdf=pd.read_excel('./data/월별확진자.xlsx')
+monthdf=monthdf.set_index('월')
+monthdf=monthdf.T
+monthdf
 
 III. Methodology
 - 한 달 중에서 최대 일일 확진자 수를 통해 월별 확진자 수를 예측한다
