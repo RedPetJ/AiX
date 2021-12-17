@@ -33,10 +33,16 @@ III. Methodology
 일별 확진자 수가 갱신될 때 그 달의 물가 동향을 바로 예측하는 방식
 
 
+
+
 IV. Evaluation & Analysis
 
 ![image](https://user-images.githubusercontent.com/95401684/146540867-6886c6a6-5415-4e68-bb97-3a9588cf1018.png)
 월별 확진자 
+
+
+
+
 
 V. Related Work
 
